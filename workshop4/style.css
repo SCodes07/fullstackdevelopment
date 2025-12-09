@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+.form-box {
+    width: 400px;
+    background: #fff;
+    padding: 20px;
+    margin: auto;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #aaa;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #007bff;
+    border: none;
+    color: white;
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-size: 13px;
+}
+
+.success {
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+}
